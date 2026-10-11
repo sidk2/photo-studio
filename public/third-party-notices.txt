@@ -1,0 +1,15 @@
+PHOTO STUDIO — THIRD-PARTY NOTICES
+
+HEIC: heic-to 1.6.5 (unmodified), GNU LGPL v3 or later.
+https://github.com/hoppergee/heic-to
+Exact source package: https://registry.npmjs.org/heic-to/-/heic-to-1.6.5.tgz
+Includes libheif and its decoding dependencies.
+License: licenses/heic-to-LGPL-3.0.txt
+Incorporated GPL text: licenses/GPL-3.0.txt
+See THIRD_PARTY_NOTICES.md in the source repository for replacement and rebuild instructions.
+
+React / React DOM — MIT. https://github.com/facebook/react
+Lucide icons — ISC. https://github.com/lucide-icons/lucide
+Vite — MIT. https://github.com/vitejs/vite
+
+Application source and build instructions are provided with this app.
